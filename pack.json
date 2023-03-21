@@ -1,0 +1,10 @@
+{
+  "name": "Steam Big Picture Ambience",
+  "description": "Background Ambience from old big picture",
+  "author": "Defalt303",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
